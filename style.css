@@ -1,0 +1,213 @@
+body{
+Margin:0;
+}
+
+Header{
+Background:black;
+Padding:8px 0px 6px 40px;
+Height:45px;
+}
+
+nav ul{
+Padding:0px;
+Float:left;
+}
+
+nav ul li{
+   List-style-type:none;
+   Float:left;
+   Margin-left:16px;
+}
+
+Nav ul a{
+Color:white;
+Text-decoration:none;
+}
+
+nav{
+Font-family:Comic Sans MS;
+}
+
+.divide{
+Height:5px;
+Background-color:red;
+}
+
+.hello{
+Padding:30% 0% 0% 5%;
+Font-family:marker felt;
+Color:white;
+Font-size:50px;
+Margin-bottom:0px;
+}
+
+.dwivedi{
+Padding:0% 0% 0% 5%;
+Font-family:arial black;
+Font-size:60px;
+color:white;
+Background-Color:rgba(0, 0, 0, 0.5);
+}
+
+.tech{
+Margin-left:80px;
+Color:white;
+Font-family:Comic Sans MS; 
+}
+
+.cse{
+Padding:0% 0% 0% 5%;
+Font-family:oswald;
+Color:white;
+Margin-top:2px;
+Font-size:30px;
+}
+
+.main{
+Background-Color:black;
+width=100%;
+Height:700px;
+}
+
+.image{
+Width=950px; 
+height:700px;
+Background-image:url('p1.jpg');
+Background-size:cover;
+}
+
+.me{
+Width:300px;
+Height:300px;
+Border-radius:50%;
+Padding:5% 0% 0% 25%;
+}
+
+.xxx{
+Margin-top:50px;
+Margin-left:35px;
+Color:white;
+}
+
+.about{
+Float:top;
+width=100%;
+Height:380px;
+Background-Color:pink;
+Display:flex;
+}
+
+.sanskar{
+Margin-left:80px;
+Color:white;
+Font-size:40px;
+Text-decoration:none; 
+}
+
+.comp{
+Margin-left:80px;
+Color:white; 
+Font-family:Comic Sans MS;
+}
+
+.facebook1{
+Margin-left:120px;
+Margin-right:10px;
+}
+
+.instagram1{
+Margin-right:10px;
+Margin-top:6px;
+}
+
+.quora1{
+Margin-right:10px;
+Margin-top:6px;
+}
+
+.content1{
+Margin-left:70px;
+Margin-top:70px;
+Text-decoration:none;
+}
+
+.content2{
+Margin-left:70px;
+Font-size:24px;
+Color:black;
+}
+
+.educations{
+width=100%;
+Height:600px;
+Background-Color:maroon;
+Padding:5% 0% 0% 5%;
+Color:white;
+}
+
+Meter{
+Width:1000px;
+Height:5px;
+Padding:0% 20% 0% 3%;
+}
+
+.skills{
+Background-Color:cyan;
+width=100%;
+Height:850;
+Padding:5% 0% 0% 5%;
+}
+
+.achievements{
+Background-Color:white;
+width=100%;
+Height:480px;
+Padding:5% 0% 0% 5%;
+}
+
+.footer{
+Background-Color:black;
+width=100%;
+Height:350px;
+Padding:0% 5% 0% 5%;
+Color:white;
+}
+
+.facebook{
+Margin-left:30px;
+Margin-right:10px;
+Margin-top:50px;
+}
+
+.instagram{
+Margin-right:10px;
+Margin-top:6px;
+}
+
+.quora{
+Margin-right:10px;
+Margin-top:6px;
+}
+
+.contentx{
+Padding:5% 0% 0% 5%;
+}
+
+.button{
+Border:2px;
+Background:blue;
+Height:50px;
+width=200px;
+Font-size:16px;
+Cursor:pointer;
+Outline:none;
+Font-family:arial black;
+Padding:3px 3px 0px 3px;
+}
+
+.button:hover{
+Width:100px;
+Background-Color:red;
+}
+
+
